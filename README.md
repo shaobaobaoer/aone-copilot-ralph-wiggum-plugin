@@ -177,4 +177,3 @@ Keep trying until success. The loop handles retry logic automatically.
 ## For Help
 
 Run `/help` in Claude Code for detailed command reference and examples.
-# aone-copilot-ralph-wiggum-plugin
